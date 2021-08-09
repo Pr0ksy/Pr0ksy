@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pr0ksy</h1>
-<h3 align="center">I am frontend web developer</h3>
+<h3 align="center">I am Frontend Web Developer</h3>
 
 - 📫 How to reach me **proxycord@gmail.com**
 
