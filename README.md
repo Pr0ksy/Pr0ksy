@@ -14,7 +14,7 @@ Here are some of the tools and technologies I work with:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23000000.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005AAB.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
----
+
 
 
 ## 🌱 Currently Learning
@@ -23,26 +23,26 @@ Here are some of the tools and technologies I work with:
 - Mastering the **Laravel framework** for advanced web solutions.  
 - **SEO optimization** techniques for better web visibility.  
 
----
+
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pr0ksy&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0ksy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
----
+
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jovan-prodanić-89076b24a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Pr0ksy)
 
----
+
 
 ## 💖 Support My Work
 
 If you enjoy my projects, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/your-profile)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/prodanicc)
 
 ---
 
