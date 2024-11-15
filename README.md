@@ -1,7 +1,42 @@
-<h1 align="center">Hi , I'm Pr0ksy</h1>
+# 👋 Hi! I'm Pr0ksy
+![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
 
 
-<h3 align="left"> 🛠 Skills:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"></a> </p>
+## 🌟 Technologies & Tools
+
+Here are some of the tools and technologies I work with:
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23000000.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005AAB.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+
+## 🌱 Currently Learning
+
+- **API development** for dynamic applications.  
+- Mastering the **Laravel framework** for advanced web solutions.  
+- **SEO optimization** techniques for better web visibility.  
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pr0ksy&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0ksy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jovan-prodanić-89076b24a/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Pr0ksy)
+
+---
+
+ Thanks for visiting! I'm always open to collaboration and exciting new ideas. Feel free to reach out! 
