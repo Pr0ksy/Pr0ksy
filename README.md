@@ -26,7 +26,6 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 📊 GitHub Stats
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pr0ksy&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pr0ksy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -36,6 +35,14 @@ Here are some of the tools and technologies I work with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jovan-prodanić-89076b24a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Pr0ksy)
+
+---
+
+## 💖 Support My Work
+
+If you enjoy my projects, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/your-profile)
 
 ---
 
