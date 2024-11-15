@@ -44,6 +44,6 @@ If you enjoy my projects, consider buying me a coffee:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/prodanicc)
 
----
+
 
  Thanks for visiting! I'm always open to collaboration and exciting new ideas. Feel free to reach out! 
