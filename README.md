@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Pr0ksy
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Pr0ksy&style=flat-square&color=blue)
 
 
 ## 🌟 Technologies & Tools
