@@ -11,6 +11,7 @@ Here are some of the tools and technologies I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%23000000.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23005AAB.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
