@@ -33,7 +33,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🤝 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram)](https://linkedin.com/in/jovan-prodanić-89076b24a/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jovan-prodanić-89076b24a/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Pr0ksy)
 
 
